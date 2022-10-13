@@ -1,0 +1,9 @@
+P,John,3366,PhD,
+S,Justin,1234
+S,Dalton,1492
+S,Polly,8899
+S,Tiffany,1235
+P,Craig,3344,MBA
+P,Bill,3355,PhD
+S,James,1266
+S,Jim,1299

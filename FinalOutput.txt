@@ -1,0 +1,21 @@
+Justin - 1234 
+MTH2 Math2 Bill PhD 
+
+Dalton - 1492 
+MTH2 Math2 Bill PhD 
+ART2 Art2 John PhD 
+
+Polly - 8899 
+ENG4 English4 Craig MBA 
+BIO1 Biology Craig MBA 
+ART2 Art2 John PhD 
+
+Tiffany - 1235 
+BIO1 Biology Craig MBA 
+ENG4 English4 Craig MBA 
+
+James - 1266 
+
+Jim - 1299 
+
+Students at bottom with no classes still need to enroll
